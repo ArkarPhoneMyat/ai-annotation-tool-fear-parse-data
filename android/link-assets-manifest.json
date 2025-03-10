@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Poppins-Bold.ttf",
+      "sha1": "cbe48c785f1af6bcd7320609094055e299481da9"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Regular.ttf",
+      "sha1": "440dc8992517a306d66e55cb0afed0cfe9b971b5"
+    },
+    {
+      "path": "src/assets/models/blnb230430.tflite",
+      "sha1": "40bea2c175e2556892c8da657b5902b7b70826a3"
+    },
+    {
+      "path": "src/assets/models/blnb230430.txt",
+      "sha1": "53c89d22bab1ab613f4d3c6742606ecbe850cefd"
+    }
+  ]
+}
